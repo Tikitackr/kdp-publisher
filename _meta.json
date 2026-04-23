@@ -1,5 +1,5 @@
 {
-  "name": "kdp-publisher",
+  "name": "kdp-publisher-de",
   "version": "1.0.0",
   "author": "Tikitackr",
   "description": "Baut KDP-fertige PDFs aus Markdown-Kapiteln im professionellen OpenClaw-Buchstil. Typst-basiert, Inter-Font, 6x9 inch, mit QR-Code-Integration.",
@@ -24,5 +24,5 @@
     "runtime": "python >= 3.9",
     "network": true
   },
-  "repository": "https://clawhub.ai/Tikitackr/kdp-publisher"
+  "repository": "https://clawhub.ai/Tikitackr/kdp-publisher-de"
 }
